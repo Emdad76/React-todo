@@ -1,0 +1,32 @@
+.todos{
+    max-height: fit-content;
+}
+.todo{
+   
+    width: 700px;
+    border: 1px solid rgb(39, 6, 228);
+    border-top-width: 4px;
+   
+    margin: 10px auto;
+    padding-left: 20px;
+    border-radius: 7px;
+}
+.todo h1{
+    color: #111;
+    margin: 10px 0;
+}
+.todo p{
+    color: #111;
+}
+.todo .del{
+    padding: 4px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1;
+    border-style: none;
+  
+    border: 1px solid rgb(39, 6, 228);
+}
+.todo .del:hover{
+  background-color:rgb(39, 6, 328); 
+}

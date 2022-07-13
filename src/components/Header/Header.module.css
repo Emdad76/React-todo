@@ -1,0 +1,36 @@
+.header{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(39, 6, 228);
+    display: block;
+    /* text-align: left; */
+
+    padding-left: 35px;
+}
+.header h1{
+    color: #fff;
+    padding: 20px 0;
+}
+.title{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    height: 35px;
+    width: 300px;
+    display: block;
+    padding-left: 10px;
+}
+.decs{
+    padding-left: 10px;
+    width: 400px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+}
+.sub{
+    padding: 15px 50px;
+    display: inline-block;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+}

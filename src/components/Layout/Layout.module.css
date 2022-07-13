@@ -1,0 +1,9 @@
+.layout{
+    height: auto;
+    width: 730px;
+    max-width: 728px;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid #ddd;
+    padding: 13px 13px;
+}
